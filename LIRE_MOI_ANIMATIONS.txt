@@ -1,0 +1,6 @@
+MGFORMATIONS33 - Site avec animations visuelles
+Ouvrir index.html dans votre navigateur.
+Les 3 illustrations sont intégrées : accueil, gestes qui sauvent, maintenance.
+Animations : lumière douce sur accueil, effets visuels secourisme, zoom au survol, apparition progressive des photos.
+Les animations sont réduites automatiquement si le navigateur le demande.
+Les menus et le formulaire de devis restent conservés.

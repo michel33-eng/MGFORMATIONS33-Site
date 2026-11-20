@@ -1,0 +1,14 @@
+MGFORMATIONS33 - SITE ANIMÉ ET MODIFIABLE
+
+1. Extraire TOUT le ZIP dans un dossier.
+2. Ouvrir index.html dans Chrome ou Edge.
+3. Cliquer sur « Modifier le site » en bas à droite.
+4. Activer la modification. Cliquer sur un texte pour le modifier, ou une image pour la remplacer.
+5. Utiliser les boutons pour ajouter une prestation ou une photo.
+6. Cliquer sur « Télécharger le site modifié ».
+7. Remplacer l'ancien index.html par le nouveau dans le dossier du site ou sur GitHub Pages.
+8. Conserver les fichiers d'images du ZIP dans le même dossier et le sous-dossier photos.
+
+Attention : l'enregistrement automatique utilise le navigateur de cet appareil. Pour publier les modifications et les voir sur les autres appareils, exporter index.html et le mettre en ligne. Les nouvelles images sont intégrées au HTML exporté. Pour éviter un fichier trop lourd, privilégier des images compressées.
+
+Les animations se désactivent automatiquement pour les personnes demandant moins de mouvement dans leurs préférences système.
